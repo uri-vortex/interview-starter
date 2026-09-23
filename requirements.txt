@@ -4,6 +4,6 @@ tqdm==4.66.4
 fonttools>=4.60.0
 filelock>=3.20.3
 Pygments==2.20.0
-gdown
-numpy
-scipy
+ipykernel==6.29.5
+numpy==2.2.5
+scipy==1.15.2
